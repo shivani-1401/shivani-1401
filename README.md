@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there! 👋
 
-<!--
-**shivani-1401/shivani-1401** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Software Engineer at Natwest Group. I graduated from Vellore Institute of Technology, Vellore in 2020 with a Bachelor of Technology focused in Electronics and Communication Engineering with Specialization in Internet of Things and Sensors. 
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on Angular, Spring Framework.
+- 🌱 I’m currently learning Python, Docker.
+- 🤔 I’m looking for motivation to start writing blog and also to include Yoga🧘 in my daily routine.
+- 💬 Ask me about anything: Love coffee☕ as much as I do? Let's talk about how awesome they're! We can code while we have coffee.
+- 📫 How to reach me:
+      https://www.linkedin.com/in/shivani-agrawal76/
+     
+- ⚡ Fun fact: I ❤️ DairyMilk a lot. It's my biggest weakness.🙈
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
