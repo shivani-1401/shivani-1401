@@ -25,7 +25,7 @@ My name is Shivani Agrawal and I am a Software Engineer at Natwest Group. I 🎓
 
 ## 📈 GitHub Stats
 
-![Shivani's GiHhub stats](https://github-readme-stats.vercel.app/api?username=shivani-1401&show_icons=true&theme=radical&hide=contribs,prs)
+![Shivani's GiHhub stats](https://github-readme-stats.vercel.app/api?username=shivani-1401&show_icons=true&theme=radical&hide=contribs,prs&count_private=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivani-1401&layout=compact)](https://github.com/shivani-1401/github-readme-stats)
 
