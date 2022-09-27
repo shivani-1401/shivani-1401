@@ -1,6 +1,6 @@
 # Hello, people! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Shivani Agrawal and I am a Software Engineer at Natwest Group. I 🎓graduated from Vellore Institute of Technology, Vellore in 2020 with a Bachelor of Technology focused in Electronics and Communication Engineering with Specialization in Internet of Things and Sensors. 
+My name is Shivani Agrawal and I worked as a Software Engineer at Natwest Group. I 🎓graduated from Vellore Institute of Technology, Vellore in 2020 with a Bachelor of Technology focused in Electronics and Communication Engineering with Specialization in Internet of Things and Sensors. 
 
 - 🔭 I’m currently working on something special.
 - 🌱 I’m currently learning Python, AWS, Machine Learning.
